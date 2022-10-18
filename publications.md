@@ -1,9 +1,7 @@
----
----
 
 [ResearchGate](https://www.researchgate.net/profile/Aline-Richter-2)  \|  [ORCID](https://orcid.org/0000-0001-6385-153X)  \|  [Lattes](https://lattes.cnpq.br/2839804543359742)
 
-
+---
 ### Peer-reviewed articles
 
 * Casas-Pinilla, L. C., Iserhard, C. A., **Richter, A.**, Gawlinski, K., Cavalheiro, L. B. D., Romanowski, H. P., & Kaminski, L. A. (2022). Different-aged Pinus afforestation does not support typical Atlantic Forest fruit-feeding butterfly assemblages. Forest Ecology and Management, 518, 120279. doi: (https://doi.org/10.1016/j.foreco.2022.120279)
@@ -16,5 +14,6 @@
 
 * Iserhard, C. A., Romanowski, H. P., **Richter, A.**, & Mendonça, M. de S. (2017). Monitoring Temporal Variation to Assess Changes in the Structure of Subtropical Atlantic Forest Butterfly Communities. Environmental Entomology, 46(4), 804–813. doi: (https://doi.org/10.1093/ee/nvx115)
 
+---
 ### Book chapter
 * Freitas, A. V. L., Santos, J. P., Rosa, A. H. B., Iserhard, C. A., **Richter, A.**, Siewert, R. R., … Lourenço, G. M. (2021). Sampling Methods for Butterflies (Lepidoptera). In Measuring Arthropod Biodiversity (pp. 101–123). Cham: Springer International Publishing. doi: (https://doi.org/10.1007/978-3-030-53226-0_5)
