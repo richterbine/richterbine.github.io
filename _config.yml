@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "aboutme.md", title: "About me"}
+  - {title: "About me", file: "aboutme.md"}
   - {title: "Publications", file: "publications.md"}
-  - {file: "CV_AlineRichter.pdf", title: "CV"}
+  - {title: "CV", file: "CV_AlineRichter.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:linebio.r@gmail.com"}
