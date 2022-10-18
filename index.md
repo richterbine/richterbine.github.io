@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: ""
 ---
 
 Hello, my name is Aline Richter, I am finishing my PhD in Ecology at the Federal University of Rio Grande do Sul at the Phylogenetic and Functional Ecology Lab (https://www.ufrgs.br/leff/). 
