@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "About me"}
+  - {file: "aboutme.md", title: "About me"}
+  - {title: "Publications", file: "publications.md"}
   - {file: "CV_AlineRichter.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:linebio.r@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/richterbine"}
-  - {title: Twitter, icon: twitter, url: "https://https://twitter.com/a_richterbine"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/a_richterbine"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
