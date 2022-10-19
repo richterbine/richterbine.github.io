@@ -4,7 +4,7 @@ title: "About me"
 
 ### Academic Career
 
-Hello everyone, my name is Aline Richter, I'm from Tucunduva, a small town in Rio Grande do Sul, Brazil. I started my academic journey at the Federal University of Pelotas where I did my undergraduate degree in Biological Sciences (bachelor) (2011 - 2015) and my master's degree in Animal Biology (2016 - 2018). In 2018 I moved from Pelotas to Porto Alegre to obtain my PhD in Ecology at the Federal University of Rio Grande do Sul. 
+Hello everyone, my name is Aline Richter, I'm from Tucunduva, a small town in Rio Grande do Sul, Brazil. I started my academic journey at the Universidade Federal de Pelotas where I did my undergraduate degree in Biological Sciences (bachelor) (2011 - 2015) and my master's degree in Animal Biology (2016 - 2018). In 2018 I moved from Pelotas to Porto Alegre to obtain my PhD in Ecology at the Universidade Federal do Rio Grande do Sul. 
 
 
 ### Research Interests
