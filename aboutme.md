@@ -1,7 +1,7 @@
 ---
 title: "Sobre mim"
 ---
-<img style="padding: 0 15px; float: right;" src="bfly.jpg" align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="Lycas.jpg" align="right" width="220">
 
 Nasci em uma pequena cidade do interior do Rio Grande do Sul chamada Tucunduva, onde meus pais tem um pequeno sítio em que desenvolvem atividades de agricultura familiar. Devido a isso, sempre tive muito contato com a natureza e aprendi a respeitá-la desde cedo. Me considero uma pessoa bastante comunicativa, proativa e com facilidade para trabahos em equipe, assim como uma profissional bastante dedicada.
 
