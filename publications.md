@@ -4,7 +4,9 @@
 ---
 ### Peer-reviewed articles
 
-* Bellaver, J., Romanowski, H.P., **Richter, A.** & Iserhard, C.A. (2022) Living on the edge: The use of fruit-feeding butterflies to evaluate edge effect on subtropical assemblages. Austral Ecology, 00, 1– 16. doi: https://doi.org/10.1111/aec.13261
+* **Richter, A.**, de Souza Mendonça, M., Gawlinski, K., & Iserhard, C. A. (2023). Microclimatic Fluctuation throughout the Day Influences Subtropical Fruit-Feeding Butterfly Assemblages between the Canopy and Understory. Diversity, 15(4), 560. doi: 10.3390/d15040560
+
+*  Bellaver, J., Romanowski, H.P., **Richter, A.** & Iserhard, C.A. (2022) Living on the edge: The use of fruit-feeding butterflies to evaluate edge effect on subtropical assemblages. Austral Ecology, 00, 1– 16. doi: https://doi.org/10.1111/aec.13261
 
 * Casas-Pinilla, L. C., Iserhard, C. A., **Richter, A.**, Gawlinski, K., Cavalheiro, L. B. D., Romanowski, H. P., & Kaminski, L. A. (2022). Different-aged Pinus afforestation does not support typical Atlantic Forest fruit-feeding butterfly assemblages. Forest Ecology and Management, 518, 120279. doi: https://doi.org/10.1016/j.foreco.2022.120279
 
@@ -19,3 +21,6 @@
 ---
 ### Book chapter
 * Freitas, A. V. L., Santos, J. P., Rosa, A. H. B., Iserhard, C. A., **Richter, A.**, Siewert, R. R., … Lourenço, G. M. (2021). Sampling Methods for Butterflies (Lepidoptera). In Measuring Arthropod Biodiversity (pp. 101–123). Cham: Springer International Publishing. doi: https://doi.org/10.1007/978-3-030-53226-0_5
+
+### e-Book
+* Machado, B., **Richter, A.**, Iserhard, C. A., & Duarte, L. D. S. (2022). Guia de Borboletas Frugívoras do Pampa Gaúcho (1st ed.). Retrieved from https://www.ufrgs.br/leff/wp-content/uploads/2022/12/Guia-Ilustrativo-de-Borboletas-Frugivoras-do-Pampa-Gaucho-1.pdf
