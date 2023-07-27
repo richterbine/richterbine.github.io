@@ -8,6 +8,9 @@
 * Diversidade de Borboletas (2017) - Minicurso ministrado na XVI SEMANA ACADÊMICA BIOLOGIA, do Instituto de Biologia, da Universidade Federal de Pelotas. 16h.
 
 ## Curadoria 	:classical_building:
+
+<img style="padding: 0 15px; float: right;" src="caixa_borbo.jpg" align="right" width="120">
+
 * Desenvolvimento de material didático ou institucional (2016-2018) - Preparação e curadoria de material entomológico de Lepidoptera para coleção científica. 240h. 
 
 * Desenvolvimento de material didático ou institucional (2014) - Preparação e curadoria de material osteológico ornitológico para Coleção Científica. 120h.
