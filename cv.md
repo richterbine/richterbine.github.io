@@ -1,3 +1,8 @@
 [CV Aline Richter](https://github.com/richterbine/richterbine.github.io/blob/master/CV_AlineRichter.pdf)   	:bookmark_tabs:   
 
-<img style="padding: 0 15px; float: right;" src="coleta_zaretis.jpg" align="right" width="220">
+
+<p align="center" width="100%">
+    <img width="30%" src="H_acheronta.JPG">
+    <img width="30%" src="Papilio.JPG">
+    <img width="30%" src="M_helenor.jpg">
+</p>
