@@ -1,5 +1,5 @@
 ---
-title: "Sobre mim"
+title: ""
 ---
 <img style="padding: 0 15px; float: right;" src="Lycas.jpg" align="right" width="220">
 
