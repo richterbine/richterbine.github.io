@@ -6,5 +6,5 @@ title: ""
 
 **Olá!** 👋   
 
-Sou Aline Richter, bióloga/ecóloga e apaixonada por observar e estudar borboletas. :butterfly: :bug:   
+Sou Aline Richter, bióloga/ecóloga e apaixonada por observar e estudar borboletas.   :butterfly:   :bug:   
 Aqui você pode encontrar um pouco sobre a minha história, tajetória acadêmica e carreira profissional.
