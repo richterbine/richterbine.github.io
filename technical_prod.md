@@ -9,7 +9,7 @@
 
 ### Curadoria  🏛️
 
-<img style="padding: 0 15px; float: right;" src="caixa_borbo.jpg" align="right" width="120">
+<img style="padding: 0 15px; float: right;" src="assets/caixa_borbo.png" align="right" width="120">
 
 * Desenvolvimento de material didático ou institucional (2016-2018) - Preparação e curadoria de material entomológico de Lepidoptera para coleção científica. 240h. 
 
