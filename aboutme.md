@@ -3,7 +3,7 @@ title: ""
 ---
 
 <img 
-  src = "assets/Lycas.jpg"
+  src = "/assets/images/Lycas.png"
   alt = "Lycas"
   align = "right"
   width = "220"
