@@ -1,8 +1,15 @@
 ---
 title: ""
 ---
-<img style="padding: 0 15px; float: right;" src="assets/Lycas.jpg" align="right" width="220">
 
+<img 
+  src = "assets/Lycas.jpg"
+  alt = "Lycas"
+  style = "float: right; padding: 15px;"
+  align = "right"
+  width = "220"
+  />
+     
 Nasci em uma pequena cidade do interior do Rio Grande do Sul chamada Tucunduva, onde meus pais tem um pequeno sítio em que desenvolvem atividades de agricultura familiar. Devido a isso, sempre tive muito contato com a natureza e aprendi a respeitá-la desde cedo. Me considero uma pessoa bastante comunicativa, proativa e com facilidade para trabahos em equipe, assim como uma profissional bastante dedicada.
 
 ---
