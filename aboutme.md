@@ -5,7 +5,6 @@ title: ""
 <img 
   src = "assets/Lycas.jpg"
   alt = "Lycas"
-  style = "float: right; padding: 15px;"
   align = "right"
   width = "220"
   />
