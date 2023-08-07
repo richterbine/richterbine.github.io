@@ -5,7 +5,7 @@
 ### Artigos Publicados
 * Soares, B. E., Nakamura, G., Freitas, T. M. S., **Richter, A.**, & Cadotte, M. (2023). Quantifying and overcoming Darwinian shortfalls to conserve the fish tree of life. Biological Conservation, 285(January), 110223. doi: [10.1016/j.biocon.2023.110223](https://doi.org/10.1016/j.biocon.2023.110223)
 
-* ⭐ **Richter, A.**, de Souza Mendonça, M., Gawlinski, K., & Iserhard, C. A. (2023). Microclimatic Fluctuation throughout the Day Influences Subtropical Fruit-Feeding Butterfly Assemblages between the Canopy and Understory. Diversity, 15(4), 560. doi: 10.3390/d15040560
+* ⭐ **Richter, A.**, de Souza Mendonça, M., Gawlinski, K., & Iserhard, C. A. (2023). Microclimatic Fluctuation throughout the Day Influences Subtropical Fruit-Feeding Butterfly Assemblages between the Canopy and Understory. Diversity, 15(4), 560. doi: [10.3390/d15040560](https://doi.org/10.3390/d15040560)
 
 *  Bellaver, J., Romanowski, H.P., **Richter, A.** & Iserhard, C.A. (2022) Living on the edge: The use of fruit-feeding butterflies to evaluate edge effect on subtropical assemblages. Austral Ecology, 00, 1– 16. doi: https://doi.org/10.1111/aec.13261
 
