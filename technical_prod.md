@@ -14,6 +14,7 @@
   alt = "Lycas"
   align = "right"
   width = "220"
+  style= "padding: 0 15px; float: right;"
   />
 
 * Desenvolvimento de material didático ou institucional (2016-2018) - Preparação e curadoria de material entomológico de Lepidoptera para coleção científica. 240h. 
