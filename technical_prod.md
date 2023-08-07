@@ -1,5 +1,5 @@
 
-🦋 [iNaturalist](https://www.inaturalist.org/people/1919964) 
+🦋 📸 [iNaturalist](https://www.inaturalist.org/people/1919964) - Confira aqui alguns registros meus sobre a biodiversidade brasileira.
 
 ---
 ### Minicursos 👩‍🏫
@@ -9,7 +9,12 @@
 
 ### Curadoria  🏛️
 
-<img style="padding: 0 15px; float: right;" src="assets/caixa_borbo.png" align="right" width="120">
+<img 
+  src = "/assets/images/caixa_borbo.png"
+  alt = "Lycas"
+  align = "right"
+  width = "220"
+  />
 
 * Desenvolvimento de material didático ou institucional (2016-2018) - Preparação e curadoria de material entomológico de Lepidoptera para coleção científica. 240h. 
 
