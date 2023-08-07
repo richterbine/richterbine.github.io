@@ -2,7 +2,10 @@
 
 
 <p align="center" width="100%">
-    <img width="30%" src="assets/H_acheronta.JPG">
-    <img width="30%" src="assets/Papilio.JPG">
-    <img width="30%" src="assets/M_helenor2.jpg">
+    <img width="30%" 
+    src="assets/images/H_acheronta.png">
+    <img width="30%" 
+    src="assets/images/Papilio.png"/>
+    <img width="30%"
+    src="assets/images/M_helenor.png"/>
 </p>
