@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Sobre mim", file: "aboutme.md"}
   - {title: "Publicações", file: "publications.md"}
   - {title: "Produção Técnica", file: "technical_prod.md"}
-  - {title: "Currículo", file: "cv.md"}
+  - {title: "Currículo", url: "https://richterbine.github.io/assets/CV_AlineRichter.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:linebio.r@gmail.com"}
