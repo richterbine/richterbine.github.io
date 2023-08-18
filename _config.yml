@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publicações", file: "publications.md"}
   - {title: "Produção Técnica", file: "technical_prod.md"}
   - {title: "Currículo", url: "https://richterbine.github.io/CV_AlineRichter/"}
-  - {title: "Portfólio", url: "https://app.powerbi.com/view?r=eyJrIjoiODY2NmEyMjEtNmVjYS00MjlhLTgzZWMtZmQyMWJlYjkyZGRiIiwidCI6ImRmNGVhNjRlLTc0NWYtNGU0Zi1iNTliLWFmODRiZjdkMjMwMyJ9"}
+  - {title: "Portfólio", file: "portfolio.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:linebio.r@gmail.com"}
