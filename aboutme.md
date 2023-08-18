@@ -31,7 +31,7 @@ Além da pesquisa, na pós-graduação pude aprimorar algumas habilidade (*soft 
 ---
 ### Carreira Profissional  💼
 
-Embora esse caminho ainda seja um pouco novo para mim, venho desenvolvendo trabalhos temporários nas áreas de consultoria ambiental e acessoria em análises de dados. Embora tenha um maior conhecimento sobre técnicas de coleta e amostragem de insetos, também tenho experiência como auxiliar de campo na coleta/amostragem de outros grupos, como aves, morcegos, anfíbios e répteis.
+Embora esse caminho ainda seja um pouco novo para mim, venho desenvolvendo trabalhos temporários nas áreas de consultoria ambiental e assessoria em análises de dados. Embora tenha um maior conhecimento sobre técnicas de coleta e amostragem de insetos, também tenho experiência como auxiliar de campo na coleta/amostragem de outros grupos, como aves, morcegos, anfíbios e répteis. Tenho CRBio ativo (região 04) e disponibiliade para viajens. 
 
 Tenho interesse nos cargos de:
 * Biólogo
@@ -39,4 +39,4 @@ Tenho interesse nos cargos de:
 * Analista ambiental
 * Assistente de campo
 
-Tenho CRBio ativo (região 04) e disponibiliade para viajens. 
+Venho buscando aprimorar meus conhecimento e uso de ferramentas como PowerBI e Python (Veja meu portifólio [aqui](https://app.powerbi.com/view?r=eyJrIjoiODY2NmEyMjEtNmVjYS00MjlhLTgzZWMtZmQyMWJlYjkyZGRiIiwidCI6ImRmNGVhNjRlLTc0NWYtNGU0Zi1iNTliLWFmODRiZjdkMjMwMyJ9)).
